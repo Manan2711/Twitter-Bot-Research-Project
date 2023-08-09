@@ -1,6 +1,6 @@
 # Summer Research Project: Graph Convolution Networks on Twibot-22 Dataset
 
-![Deakin University](https://www.deakin.edu.au/__data/assets/image/0005/6359/Deakin_Worldly_Logo.png?v=0.5.4)
+![Deakin University](https://www.deakin.edu.au/__data/assets/image/0007/1146985/logo_deakin-rebrand-stacked.png)
 
 ## Introduction
 
